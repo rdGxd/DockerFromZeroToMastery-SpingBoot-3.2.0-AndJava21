@@ -21,7 +21,7 @@ services:
       - erudio-network
 
   docker-from-zero-to-mastery-java:
-    image: leandrocgsi/docker-from-zero-to-mastery-java
+    image: rdgxd/docker-from-zero-to-mastery-java
     restart: always
     environment:
       TZ: America/Sao_Paulo
